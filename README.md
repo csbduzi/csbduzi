@@ -1,20 +1,52 @@
+<div align="center">
+
 # Hi, I'm Christophe 👋
 
-I work on the part of software most people never look at: **the build**. I care about fast feedback loops, reproducible outputs, and tooling that makes entire teams faster — because a minute saved in the build is a minute saved a thousand times a day.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=I+make+builds+fast+%E2%80%94+and+keep+them+correct.;Dependency+graphs+%C2%B7+caching+%C2%B7+remote+execution;Everything+between+source+and+binary+%E2%9A%99%EF%B8%8F)](https://github.com/csbduzi)
 
-## What you'll find here
+***A minute saved in the build is a minute saved a thousand times a day.***
 
-- ⚙️ **Build systems & developer tooling** — dependency graphs, caching, incremental and parallel builds
+</div>
+
+---
+
+## ⚡ What I'm about
+
+I work on the part of software most people never look at: **the build** — fast feedback loops, reproducible outputs, and tooling that makes entire teams faster.
+
+- ⚙️ **Build systems & developer tooling** — dependency graphs, caching, incremental & parallel builds
 - 📊 **Tools that make slow things visible** — build profilers, analyzers, and live dashboards
-- 🧪 **Experiments in speed and correctness** — CI pipelines, reproducibility, and the edges where builds break
+- 🧪 **Speed & correctness experiments** — CI pipelines, reproducibility, and the edges where builds break
 
-## Stack
+## 🧰 Toolbox
 
-**Languages:** `C#` `C++` `Rust` `Go` `Python`
-**Build & toolchain:** `MSBuild` `Bazel` `CMake` `Ninja` `LLVM` — dependency graphs, distributed caches, remote execution, and everything between source and binary
+<div align="center">
 
-## How I ship
+[![Languages](https://skillicons.dev/icons?i=cs,cpp,rust,go,py&theme=dark)](https://github.com/csbduzi)
 
-Every repo lands with tests, CI, and a README worth reading. I measure before I optimize, and I optimize the thing everyone waits on.
+![MSBuild](https://img.shields.io/badge/MSBuild-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bazel](https://img.shields.io/badge/Bazel-43A047?style=for-the-badge&logo=bazel&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Ninja](https://img.shields.io/badge/Ninja-1A1A1A?style=for-the-badge)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-📫 [cbahenduzi@gmail.com](mailto:cbahenduzi@gmail.com)
+*Dependency graphs, distributed caches, remote execution — and everything between source and binary.*
+
+</div>
+
+## 🚀 How I ship
+
+> Every repo lands with tests, CI, and a README worth reading.
+> I measure before I optimize — and I optimize the thing everyone waits on.
+
+## 📫 Say hello
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-cbahenduzi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cbahenduzi@gmail.com)
+[![Follow](https://img.shields.io/github/followers/csbduzi?style=for-the-badge&logo=github&label=Follow)](https://github.com/csbduzi)
+
+⭐ *The pinned repos below are the receipts.*
+
+</div>
