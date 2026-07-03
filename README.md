@@ -2,7 +2,7 @@
 
 # Hi, I'm Christophe 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=I+make+builds+fast+%E2%80%94+and+keep+them+correct.;Dependency+graphs+%C2%B7+caching+%C2%B7+remote+execution;Everything+between+source+and+binary+%E2%9A%99%EF%B8%8F)](https://github.com/csbduzi)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=I+make+builds+fast;Dependency+graphs%2C+caching%2C+remote+execution;From+source+to+binary)](https://github.com/csbduzi)
 
 ***A minute saved in the build is a minute saved a thousand times a day.***
 
