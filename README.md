@@ -2,7 +2,9 @@
 
 # Hi, I'm Christophe 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=I+make+builds+fast;Dependency+graphs%2C+caching%2C+remote+execution;From+source+to+binary)](https://github.com/csbduzi)
+### ⚡ I make builds **fast** — and keep them **correct**.
+
+`dependency graphs` · `distributed caches` · `remote execution` · `everything between source and binary`
 
 ***A minute saved in the build is a minute saved a thousand times a day.***
 
