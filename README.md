@@ -1,19 +1,19 @@
 # Hi, I'm Christophe 👋
 
-Software Engineer. I build real-time systems and native apps — currently developing everything in the open.
+I build native apps for Apple platforms — iOS and macOS — with a soft spot for real-time data and interfaces that feel alive.
 
-## What I'm working on
+## What you'll find here
 
-- 🛠️ Building my next projects **public-first** — real-time data pipelines, developer tooling, and native macOS apps
-- 🤖 Exploring AI agent tooling in **C# / .NET**
-- 📈 Deep interest in streaming market data: WebSocket feeds, scoring engines, and live dashboards
+- 📱 **iOS & macOS apps** in Swift and SwiftUI, developed in the open
+- ⚡ **Real-time systems** — live feeds, streaming data, dashboards that never sit still
+- 🧰 **Tools and experiments** that made my own work easier, shared in case they help yours
 
 ## Stack
 
-`C#` `.NET` `Swift` `SwiftUI` `TypeScript` `Node.js` `Azure`
+`Swift` `SwiftUI` `C#` `.NET` `TypeScript`
 
-## Currently
+## How I ship
 
-Everything I ship lands here with tests, CI, and a README worth reading. Watch this space — new repos coming through summer 2026 and beyond.
+Every repo lands with tests, CI, and a README worth reading. If it updates in real time, I probably enjoyed building it.
 
-📫 Reach me: [cbahenduzi@gmail.com](mailto:cbahenduzi@gmail.com)
+📫 [cbahenduzi@gmail.com](mailto:cbahenduzi@gmail.com)
