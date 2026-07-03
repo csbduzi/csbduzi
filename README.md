@@ -10,7 +10,8 @@ I work on the part of software most people never look at: **the build**. I care 
 
 ## Stack
 
-`C#` `.NET` `Swift` `TypeScript` — and whatever the toolchain calls for
+**Languages:** `C#` `C++` `Rust` `Go` `Python`
+**Build & toolchain:** `MSBuild` `Bazel` `CMake` `Ninja` `LLVM` — dependency graphs, distributed caches, remote execution, and everything between source and binary
 
 ## How I ship
 
