@@ -1,12 +1,10 @@
 # Hi, I'm Christophe 👋
 
-I build native apps for Apple platforms — iOS and macOS — with a soft spot for real-time data and interfaces that feel alive.
+Software engineer who likes building things you can watch working — native apps, live dashboards, and tools that respond in real time.
 
 ## What you'll find here
 
-- 📱 **iOS & macOS apps** in Swift and SwiftUI, developed in the open
-- ⚡ **Real-time systems** — live feeds, streaming data, dashboards that never sit still
-- 🧰 **Tools and experiments** that made my own work easier, shared in case they help yours
+Projects developed in the open: apps, tools, and experiments. The ones worth your time are pinned below.
 
 ## Stack
 
@@ -14,6 +12,6 @@ I build native apps for Apple platforms — iOS and macOS — with a soft spot f
 
 ## How I ship
 
-Every repo lands with tests, CI, and a README worth reading. If it updates in real time, I probably enjoyed building it.
+Every repo lands with tests, CI, and a README worth reading.
 
 📫 [cbahenduzi@gmail.com](mailto:cbahenduzi@gmail.com)
